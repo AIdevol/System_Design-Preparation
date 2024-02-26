@@ -59,7 +59,7 @@
 * [Vagrant](https://www.vagrantup.com/) - Virtual machine management
 * [VirtualBox](https://www.virtualbox.org/) - Virtual machine hypervisor
 
-#### About Frameworks
+## About Frameworks
 
 ### Cloud Computing and Infrastructure
 * **Amazon Web Services (AWS)** - Cloud computing platform by Amazon offering a wide range of services.
