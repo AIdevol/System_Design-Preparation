@@ -58,3 +58,54 @@
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool
 * [Vagrant](https://www.vagrantup.com/) - Virtual machine management
 * [VirtualBox](https://www.virtualbox.org/) - Virtual machine hypervisor
+
+#### About Frameworks
+
+### Cloud Computing and Infrastructure
+* **Amazon Web Services (AWS)** - Cloud computing platform by Amazon offering a wide range of services.
+* **Microsoft Azure** - Cloud computing platform by Microsoft providing various cloud services.
+* **Google Cloud Platform (GCP)** - Cloud computing services by Google including computing, storage, and machine learning.
+* **Terraform** - Infrastructure as Code (IaC) tool for building, changing, and versioning infrastructure.
+
+### Data Science and Analytics
+* **Pandas** - Python library for data manipulation and analysis.
+* **NumPy** - Python library for numerical computing.
+* **SciPy** - Python library for scientific computing.
+* **Scikit-learn** - Machine learning library in Python.
+* **Matplotlib** - Python library for creating static, animated, and interactive visualizations.
+* **Seaborn** - Python visualization library based on matplotlib for statistical data visualization.
+
+### DevOps and Deployment
+* **Ansible** - Configuration management, application deployment, task automation tool.
+* **Puppet** - Configuration management and automation tool.
+* **Chef** - Configuration management tool for infrastructure automation.
+* **Kubernetes (k8s)** - Container orchestration platform for automating deployment, scaling, and management of containerized applications.
+* **Docker Compose** - Tool for defining and running multi-container Docker applications.
+
+### Web Development
+* **React** - JavaScript library for building user interfaces.
+* **Vue.js** - Progressive JavaScript framework for building UIs.
+* **Angular** - Platform and framework for building single-page client applications using HTML and TypeScript.
+
+### Testing
+* **Selenium** - Open-source tool for automating web browsers for testing purposes.
+* **JUnit** - Testing framework for Java programming language.
+* **pytest** - Testing framework for Python programming language.
+* **Cypress** - End-to-end testing framework for web applications.
+
+### Collaboration and Project Management
+* **Jira** - Issue tracking and project management software by Atlassian.
+* **Asana** - Project management tool for teams to track work and collaborate.
+* **Slack** - Collaboration hub for work, providing real-time messaging, file sharing, and more.
+* **Microsoft Teams** - Unified communication and collaboration platform.
+
+### Security
+* **HashiCorp Vault** - Tool for securely storing and accessing secrets.
+* **OpenSSL** - Toolkit for SSL/TLS protocols and cryptography.
+* **Wireshark** - Network protocol analyzer for troubleshooting, analysis, development, and education.
+
+### Version Control
+* **Git** - Distributed version control system.
+* **SVN (Apache Subversion)** - Centralized version control system.
+
+These tools cover a wide range of functionalities and are commonly used across different industries and domains.
