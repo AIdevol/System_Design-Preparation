@@ -42,7 +42,7 @@ The repository covers a wide range of system design topics, including but not li
 - and more...
 
 Explore the directories to discover in-depth materials on each topic.
-
+ 
 ## Resources
 
 Additionally, you'll find links to external resources such as books, articles, online courses, and videos that can further supplement your learning.
