@@ -13,7 +13,7 @@ Welcome to the System Design Preparation Repository! This repository contains fi
 6. [License](#license)
 
 ## Introduction
-
+ 
 In this repository, you will find files covering a range of system design topics essential for software development interviews. These topics are carefully curated to help you understand system architecture, scalability, performance optimization, and more.
 
 ## How to Use This Repository
