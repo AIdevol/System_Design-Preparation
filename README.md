@@ -4,7 +4,7 @@
 Welcome to the System Design Preparation Repository! This repository contains files related to various system design topics that are commonly asked by interviewers and can help you develop software effectively. 
   
 ## Table of Contents 
-  
+   
 1. [Introduction](#introduction)
 2. [How to Use This Repository](#how-to-use-this-repository)
 3. [Topics Covered](#topics-covered)
